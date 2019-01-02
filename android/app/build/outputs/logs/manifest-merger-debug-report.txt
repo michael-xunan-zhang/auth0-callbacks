@@ -1,0 +1,167 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:1:1-42:12
+MERGED from [:react-native-auth0] /Users/michaelzhang/Desktop/React_Native_apps/00-login/node_modules/react-native-auth0/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.react:react-native:0.47.2] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/react-native-0.47.2.aar/b95679da5c8bec2a8cd2405df9ba6a4b/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/62cb5775d722594795b5a2946e75b539/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:customtabs:23.0.1] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/customtabs-23.0.1.aar/5358c9f4366d60666a508e61f41612f8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:23.0.1] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/f52a6065d3d0504208bfa672a27dedac/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/a8ad5503b70b932fc7023638ed3eacff/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.0.1] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/fresco-1.0.1.aar/2290fb7e4acc981cd0eadb93810303f1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.0.1.aar/d5470657650db4e20fce61c8934c4d70/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/02c9389a5a5d96492630cdaa83624089/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/244fccb2ee5c4ad508450ddfd94a1f8a/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.0.1] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/drawee-1.0.1.aar/39547331d93432b2e7260c779334ce59/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.0.1] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.0.1.aar/da1c89d1516337614c10233a4f5bd883/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.0.1] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.0.1.aar/5031ba31058cac8418c17454810230cc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.0.1] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/fbcore-1.0.1.aar/55334011f5b2dff3fa5c983dfd191d0f/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:1:1-42:12
+	package
+		ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:2:5-30
+		INJECTED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:7:5-77
+MERGED from [com.facebook.react:react-native:0.47.2] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/react-native-0.47.2.aar/b95679da5c8bec2a8cd2405df9ba6a4b/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.47.2] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/react-native-0.47.2.aar/b95679da5c8bec2a8cd2405df9ba6a4b/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:7:22-75
+uses-sdk
+ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:9:5-11:41
+INJECTED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:9:5-11:41
+INJECTED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:9:5-11:41
+MERGED from [:react-native-auth0] /Users/michaelzhang/Desktop/React_Native_apps/00-login/node_modules/react-native-auth0/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-auth0] /Users/michaelzhang/Desktop/React_Native_apps/00-login/node_modules/react-native-auth0/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.47.2] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/react-native-0.47.2.aar/b95679da5c8bec2a8cd2405df9ba6a4b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.47.2] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/react-native-0.47.2.aar/b95679da5c8bec2a8cd2405df9ba6a4b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/62cb5775d722594795b5a2946e75b539/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/62cb5775d722594795b5a2946e75b539/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:23.0.1] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/customtabs-23.0.1.aar/5358c9f4366d60666a508e61f41612f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:23.0.1] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/customtabs-23.0.1.aar/5358c9f4366d60666a508e61f41612f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:23.0.1] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/f52a6065d3d0504208bfa672a27dedac/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/f52a6065d3d0504208bfa672a27dedac/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/a8ad5503b70b932fc7023638ed3eacff/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/a8ad5503b70b932fc7023638ed3eacff/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.0.1] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/fresco-1.0.1.aar/2290fb7e4acc981cd0eadb93810303f1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.0.1] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/fresco-1.0.1.aar/2290fb7e4acc981cd0eadb93810303f1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.0.1.aar/d5470657650db4e20fce61c8934c4d70/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.0.1.aar/d5470657650db4e20fce61c8934c4d70/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/02c9389a5a5d96492630cdaa83624089/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/02c9389a5a5d96492630cdaa83624089/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.0.1] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/drawee-1.0.1.aar/39547331d93432b2e7260c779334ce59/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.0.1] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/drawee-1.0.1.aar/39547331d93432b2e7260c779334ce59/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.0.1] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.0.1.aar/da1c89d1516337614c10233a4f5bd883/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.0.1] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.0.1.aar/da1c89d1516337614c10233a4f5bd883/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.0.1] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.0.1.aar/5031ba31058cac8418c17454810230cc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.0.1] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.0.1.aar/5031ba31058cac8418c17454810230cc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.0.1] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/fbcore-1.0.1.aar/55334011f5b2dff3fa5c983dfd191d0f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.0.1] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/fbcore-1.0.1.aar/55334011f5b2dff3fa5c983dfd191d0f/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:9:5-11:41
+INJECTED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:9:5-11:41
+	android:targetSdkVersion
+		ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:11:9-38
+		INJECTED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:10:9-35
+		INJECTED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:13:5-40:19
+MERGED from [:react-native-auth0] /Users/michaelzhang/Desktop/React_Native_apps/00-login/node_modules/react-native-auth0/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-auth0] /Users/michaelzhang/Desktop/React_Native_apps/00-login/node_modules/react-native-auth0/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [com.facebook.react:react-native:0.47.2] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/react-native-0.47.2.aar/b95679da5c8bec2a8cd2405df9ba6a4b/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.47.2] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/react-native-0.47.2.aar/b95679da5c8bec2a8cd2405df9ba6a4b/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/62cb5775d722594795b5a2946e75b539/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/62cb5775d722594795b5a2946e75b539/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:customtabs:23.0.1] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/customtabs-23.0.1.aar/5358c9f4366d60666a508e61f41612f8/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:customtabs:23.0.1] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/customtabs-23.0.1.aar/5358c9f4366d60666a508e61f41612f8/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/f52a6065d3d0504208bfa672a27dedac/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/f52a6065d3d0504208bfa672a27dedac/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/02c9389a5a5d96492630cdaa83624089/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/02c9389a5a5d96492630cdaa83624089/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/244fccb2ee5c4ad508450ddfd94a1f8a/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/michaelzhang/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/244fccb2ee5c4ad508450ddfd94a1f8a/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:16:7-39
+	android:icon
+		ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:17:7-41
+	android:allowBackup
+		ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:15:7-33
+	android:theme
+		ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:18:7-38
+	android:name
+		ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:14:7-38
+activity#com.auth0sample.MainActivity
+ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:19:7-38:20
+	android:label
+		ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:21:9-41
+	android:launchMode
+		ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:22:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:24:9-51
+	android:configChanges
+		ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:23:9-79
+	android:name
+		ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:20:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:25:9-28:25
+action#android.intent.action.MAIN
+ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:26:13-65
+	android:name
+		ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:26:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:27:13-73
+	android:name
+		ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:27:23-70
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:michael-zhang-vituity.auth0.com+data:pathPrefix:/android/com.auth0sample/callback+data:scheme:com.auth0sample
+ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:29:9-37:25
+action#android.intent.action.VIEW
+ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:30:13-65
+	android:name
+		ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:30:21-62
+category#android.intent.category.DEFAULT
+ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:31:13-72
+	android:name
+		ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:31:23-69
+category#android.intent.category.BROWSABLE
+ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:32:13-74
+	android:name
+		ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:32:23-71
+data
+ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:33:13-36:50
+	android:host
+		ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:34:15-61
+	android:scheme
+		ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:36:15-47
+	android:pathPrefix
+		ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:35:15-69
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:39:7-84
+	android:name
+		ADDED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:39:17-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:1:1-42:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:1:1-42:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/michaelzhang/Desktop/React_Native_apps/00-login/android/app/src/main/AndroidManifest.xml:1:1-42:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
